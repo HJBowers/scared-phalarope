@@ -460,7 +460,7 @@ To get a proper self assessment:
 - Don't look at other repos
 - Understand and write every line of code
 - Ask for coaching sessions
-- Get frequent code reviews
+- Get frequent code reviews (minimum of 1 per day)
 
 ---
 
