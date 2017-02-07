@@ -1,0 +1,26 @@
+{
+  "name": "scared-phalarope",
+  "version": "1.0.0",
+  "description": "Benchmark Goal: 15 Coding Exercises #144",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+  "chai": "^3.5.0",
+  "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJBowers/scared-phalarope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJBowers/scared-phalarope/issues"
+  },
+  "homepage": "https://github.com/HJBowers/scared-phalarope#readme"
+}
