@@ -4,7 +4,7 @@
   "description": "Benchmark Goal: 15 Coding Exercises #144",
   "main": "index.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "devDependencies": {
   "chai": "^3.5.0",

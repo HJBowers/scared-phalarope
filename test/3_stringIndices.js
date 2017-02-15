@@ -1,7 +1,7 @@
 const {indexWord} = require('../algorithms/3_stringIndices.js')
 const {expect} = require('chai')
 
-describe('Indices', function() {
+describe('3. String Indices', function() {
   it('returns the word in the phrase according to index provided', function(){
     var phrase = "Catch me outside, how about that?";
     var index = 3
